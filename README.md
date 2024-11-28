@@ -1,6 +1,10 @@
 # 🚀 Desafio de JavaScript  
 
 Este repositório contém a solução de desafios em JavaScript, explorando conceitos fundamentais da linguagem e a implementação de testes unitários para garantir a qualidade do código. 
+🍿
+
+https://github.com/user-attachments/assets/36c8207a-659b-4c4e-a66f-1b5991c0b61f
+
 
 ## 📚 Desafios Desenvolvidos  
 
